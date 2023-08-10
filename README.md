@@ -6,7 +6,7 @@ This repository contains a Python script that demonstrates how to use the `rembg
 
 Before running the script, you'll need to install the necessary libraries. You can install them using the following commands:
 
-```bash
+bash
     pip install opencv-python
     pip install numpy
     pip install rembg
